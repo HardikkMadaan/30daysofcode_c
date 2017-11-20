@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+    //Coded by HM
     // Declare a variable named 'input_string' to hold our input.
     char input_string[105]; 
     
